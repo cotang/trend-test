@@ -1,0 +1,485 @@
+{
+  "data": [
+    {
+      "builderName": "Передача клиента для продажи квартиры в ТРЕНД",
+      "blocks": [
+        {
+          "blockName": "Вторичная  /  первичная недвижимость",
+          "blockPlanPercent": "1%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Вторичка  ТРЕНДА",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "3%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Переуступки ТРЕНДА",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "3%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Главстрой",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "2.5%",
+          "blockPriorityPercent": "2.7%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "ЛСР",
+      "blocks": [
+        {
+          "blockName": "Все объекты (кроме переуступок)",
+          "blockPlanPercent": "2.5%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Переуступки",
+          "blockPlanPercent": "1.6% не более 100т.р",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "ЛСР Возрождение",
+      "blocks": [
+        {
+          "blockName": "Русский дом, VERONA, Радищева, 39, Дом на Дворянской, Смольный парк",
+          "blockPlanPercent": "2.5%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Доходъ",
+          "blockPlanPercent": "1.3%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "ЦДС",
+      "blocks": [
+        {
+          "blockName": "Все объекты (кроме Кантели) (по сделкам с использованием Займа вознаграждение уменьшается на 2%)",
+          "blockPlanPercent": "4%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Кантеле",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "Setl City",
+      "blocks": [
+        {
+          "blockName": "Все объекты (кроме переуступок)",
+          "blockPlanPercent": "3%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Полис Групп",
+      "blocks": [
+        {
+          "blockName": "Все объекты (кроме переуступок)",
+          "blockPlanPercent": "3%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "2.55% - 3%",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Setl City, Полис Групп",
+      "blocks": [
+        {
+          "blockName": "Переуступки",
+          "blockPlanPercent": "2.5%",
+          "blockPriorityPercent": "2.5%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Дом на Фрунзенской",
+      "blocks": [
+        {
+          "blockName": "Дом на Фрунзенской",
+          "blockPlanPercent": "2%",
+          "blockPriorityPercent": "2.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Стимул СКТ",
+      "blocks": [
+        {
+          "blockName": "Монополист",
+          "blockPlanPercent": "2%",
+          "blockPriorityPercent": "2.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Петра-8",
+      "blocks": [
+        {
+          "blockName": "Триумф парк",
+          "blockPlanPercent": "2%",
+          "blockPriorityPercent": "2.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Запстрой",
+      "blocks": [
+        {
+          "blockName": "Охтинская дуга",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Оникс",
+      "blocks": [
+        {
+          "blockName": "Ново-Антропшино",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "ФСК Лидер",
+      "blocks": [
+        {
+          "blockName": "UP! Квартал «Московский»",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "UP! Квартал «Комендантский»",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "UP! Квартал «Светлановский»,",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "AAG",
+      "blocks": [
+        {
+          "blockName": "Ренесанс",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Платинум",
+      "blocks": [
+        {
+          "blockName": "Платинум",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Аквилон-инвест",
+      "blocks": [
+        {
+          "blockName": "4YOU",
+          "blockPlanPercent": "2%",
+          "blockPriorityPercent": "2.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Самолет",
+      "blocks": [
+        {
+          "blockName": "Мурино 2017",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "Коммерческие помещения через ПН",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "1.6%",
+          "blockPriorityPercent": "1.8%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "нельзя"
+    },
+    {
+      "builderName": "КВС",
+      "blocks": [
+        {
+          "blockName": "Сертолово",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "2.4% - 3.2%",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Янино",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "2.4% - 3.2%",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Амазонка",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "2.4% - 3.2%",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Кирилл и Дарья",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "-"
+    },
+    {
+      "builderName": "ЮИТ",
+      "blocks": [
+        {
+          "blockName": "Новоорловский, Инкери, Тойве, Фьорд, Новосковский",
+          "blockPlanPercent": "3.2%",
+          "blockPriorityPercent": "3.8%",
+          "blockMinMaxPercent": "3.2% - 4%",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Чапаева, Смольный",
+          "blockPlanPercent": "2.8%",
+          "blockPriorityPercent": "3%",
+          "blockMinMaxPercent": "2.4% - 2.8%",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "Реновация",
+      "blocks": [
+        {
+          "blockName": "Все строящиеся проекты (кроме переуступок)",
+          "blockPlanPercent": "4%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Сандей, Астрид (1-ая очередь)",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Переуступки",
+          "blockPlanPercent": "3.2%",
+          "blockPriorityPercent": "3.4%",
+          "blockMinMaxPercent": "фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "Северный город / RBI",
+      "blocks": [
+        {
+          "blockName": "Все объекты (Мистола Хиллс)",
+          "blockPlanPercent": "3.8%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Петрострой",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "4%",
+          "blockPriorityPercent": "4.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Абсолютстройсервис",
+      "blocks": [
+        {
+          "blockName": "Новый Петергоф",
+          "blockPlanPercent": "4%",
+          "blockPriorityPercent": "4.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Арсенал",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "3.5%",
+          "blockPriorityPercent": "3.7%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    },
+    {
+      "builderName": "Легенда",
+      "blocks": [
+        {
+          "blockName": "Все объекты",
+          "blockPlanPercent": "5%",
+          "blockPriorityPercent": "-",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "можно"
+    },
+    {
+      "builderName": "Лидер Групп",
+      "blocks": [
+        {
+          "blockName": "9й Вал  , Витамин , Три кита,  Территория",
+          "blockPlanPercent": "2.8%",
+          "blockPriorityPercent": "3%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Ёга, Сириус, Медалист, Капитан Немо, Богатырь I / II , Босфор, Царский Двор, Балканы, Небо Москвы",
+          "blockPlanPercent": "2.4%",
+          "blockPriorityPercent": "2.6%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        },
+        {
+          "blockName": "Ленинград",
+          "blockPlanPercent": "2%",
+          "blockPriorityPercent": "2.2%",
+          "blockMinMaxPercent": "Фикс",
+          "blockRewardPercent": "регламент"
+        }
+      ],
+      "builderAdverticement": "регламент"
+    }
+  ]
+}
